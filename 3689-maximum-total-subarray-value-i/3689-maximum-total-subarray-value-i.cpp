@@ -11,9 +11,6 @@ public:
             mini = min(mini,nums[i]);
             val = maxi - mini;
            ans = val*k;
-        //    if(sum < 0){
-        //     sum = 0;
-        //    }
         }
         return ans;
     }

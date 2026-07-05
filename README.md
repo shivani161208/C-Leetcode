@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shivani161208/C-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Greedy
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shivani161208/C-Leetcode/tree/master/0127-word-ladder) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->

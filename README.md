@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivani161208/C-Leetcode/tree/master/0070-climbing-stairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivani161208/C-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
 | ------- |

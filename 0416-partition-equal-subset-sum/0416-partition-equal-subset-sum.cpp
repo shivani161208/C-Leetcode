@@ -9,25 +9,25 @@ public:
         }
         if(sum % 2) return false;
         int tar = sum/2;
-        vector<vector<bool>>dp(n,vector<bool>(tar+1,false));
-       
-        for(int i=0;i<n;i++){
-            dp[i][0] = true;
-        }
-
-        if(nums[0] <= tar) dp[0][nums[0]] = true;
+        vector<bool>prev(tar+1,false);
+        prev[0] = true;       
+        
+        if(nums[0] <= tar) prev[nums[0]] = true;
 
         for(int i=1;i<n;i++){
+            vector<bool>curr(tar+1,false);
+            curr[0] = true;
             for(int t=1;t<=tar;t++){
-                bool notTake = dp[i-1][t];
+                bool notTake = prev[t];
                 bool take = false;
                 if(nums[i] <= t )
-                    take = dp[i-1][t-nums[i]];
+                    take = prev[t-nums[i]];
 
-                dp[i][t] = take || notTake;
+                curr[t] = take || notTake;
             }
+            prev = curr;
         }
         
-        return dp[n-1][tar];
+        return prev[tar];
     }
 };

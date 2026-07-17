@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shivani161208/C-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivani161208/C-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivani161208/C-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shivani161208/C-Leetcode/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani161208/C-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/shivani161208/C-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivani161208/C-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivani161208/C-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivani161208/C-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivani161208/C-Leetcode/tree/master/0509-fibonacci-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivani161208/C-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivani161208/C-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivani161208/C-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivani161208/C-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivani161208/C-Leetcode/tree/master/0069-sqrtx) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivani161208/C-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -121,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivani161208/C-Leetcode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivani161208/C-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivani161208/C-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivani161208/C-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivani161208/C-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

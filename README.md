@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shivani161208/C-Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shivani161208/C-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivani161208/C-Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shivani161208/C-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani161208/C-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shivani161208/C-Leetcode/tree/master/0127-word-ladder) |
+| [0322-coin-change](https://github.com/shivani161208/C-Leetcode/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/shivani161208/C-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shivani161208/C-Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shivani161208/C-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivani161208/C-Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shivani161208/C-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivani161208/C-Leetcode/tree/master/0509-fibonacci-number) |

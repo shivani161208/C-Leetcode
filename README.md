@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shivani161208/C-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shivani161208/C-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shivani161208/C-Leetcode/tree/master/0127-word-ladder) |
+| [0316-remove-duplicate-letters](https://github.com/shivani161208/C-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0494-target-sum) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shivani161208/C-Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shivani161208/C-Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

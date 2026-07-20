@@ -7,10 +7,9 @@ public:
         k %= (m*n);
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                int idx = i*n+j;
-                int newIdx = (idx + k) % (m*n);
-
-                ans[newIdx / n][newIdx % n] = grid[i][j];
+               int idx = i*n+j;
+               int newIdx = (idx+k) % (m*n);
+               ans[newIdx/n][newIdx%n] = grid[i][j];
             }
         }
         return ans;

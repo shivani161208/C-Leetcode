@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
        
-        string t = '1' + s + '1';
+        string t = "1" + s + "1";
         int n = t.length();
         vector<pair<char,int>> seg;
         int i = 0;

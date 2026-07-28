@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivani161208/C-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shivani161208/C-Leetcode/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivani161208/C-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/shivani161208/C-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivani161208/C-Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shivani161208/C-Leetcode/tree/master/0322-coin-change) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shivani161208/C-Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shivani161208/C-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivani161208/C-Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivani161208/C-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/shivani161208/C-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivani161208/C-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivani161208/C-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/shivani161208/C-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivani161208/C-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivani161208/C-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |

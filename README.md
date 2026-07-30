@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivani161208/C-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivani161208/C-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shivani161208/C-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivani161208/C-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivani161208/C-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shivani161208/C-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivani161208/C-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivani161208/C-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shivani161208/C-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivani161208/C-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivani161208/C-Leetcode/tree/master/3536-maximum-product-of-two-digits) |

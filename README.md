@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani161208/C-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/shivani161208/C-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/shivani161208/C-Leetcode/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/shivani161208/C-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shivani161208/C-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivani161208/C-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/shivani161208/C-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0636-exclusive-time-of-functions](https://github.com/shivani161208/C-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivani161208/C-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivani161208/C-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack

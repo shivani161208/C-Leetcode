@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivani161208/C-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivani161208/C-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/shivani161208/C-Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shivani161208/C-Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shivani161208/C-Leetcode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivani161208/C-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivani161208/C-Leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shivani161208/C-Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/shivani161208/C-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivani161208/C-Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/shivani161208/C-Leetcode/tree/master/0075-sort-colors) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivani161208/C-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/shivani161208/C-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/shivani161208/C-Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/shivani161208/C-Leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/shivani161208/C-Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shivani161208/C-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shivani161208/C-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivani161208/C-Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivani161208/C-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivani161208/C-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0877-stone-game](https://github.com/shivani161208/C-Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/shivani161208/C-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivani161208/C-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivani161208/C-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/shivani161208/C-Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivani161208/C-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivani161208/C-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/shivani161208/C-Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -306,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivani161208/C-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shivani161208/C-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

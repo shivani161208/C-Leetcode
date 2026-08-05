@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shivani161208/C-Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivani161208/C-Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivani161208/C-Leetcode/tree/master/0062-unique-paths) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/shivani161208/C-Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/shivani161208/C-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivani161208/C-Leetcode/tree/master/0509-fibonacci-number) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivani161208/C-Leetcode/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivani161208/C-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

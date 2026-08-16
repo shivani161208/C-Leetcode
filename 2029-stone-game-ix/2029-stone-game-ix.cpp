@@ -1,0 +1,13 @@
+class Solution {
+public:
+    bool stoneGameIX(vector<int>& stones) {
+        int n = stones.size();
+        int cnt[3] = {0};
+        for(int it:stones){
+            cnt[it%3]++;
+        }
+        if(cnt[1] == 0 && cnt[2]==0) return false;
+        if(cnt[0]%2==0) return cnt[1]>0 && cnt[2]>0;
+        return abs(cnt[1]-cnt[2])>2;
+    }
+};

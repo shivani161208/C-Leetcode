@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivani161208/C-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shivani161208/C-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/shivani161208/C-Leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivani161208/C-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shivani161208/C-Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivani161208/C-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shivani161208/C-Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/shivani161208/C-Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shivani161208/C-Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivani161208/C-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivani161208/C-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivani161208/C-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivani161208/C-Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shivani161208/C-Leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivani161208/C-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shivani161208/C-Leetcode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/shivani161208/C-Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivani161208/C-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivani161208/C-Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shivani161208/C-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shivani161208/C-Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |

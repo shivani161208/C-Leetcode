@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/shivani161208/C-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/shivani161208/C-Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/shivani161208/C-Leetcode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/shivani161208/C-Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shivani161208/C-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shivani161208/C-Leetcode/tree/master/1260-shift-2d-grid) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivani161208/C-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivani161208/C-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivani161208/C-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/shivani161208/C-Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shivani161208/C-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivani161208/C-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1463-cherry-pickup-ii) |

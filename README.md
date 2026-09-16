@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/shivani161208/C-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivani161208/C-Leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivani161208/C-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shivani161208/C-Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivani161208/C-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivani161208/C-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shivani161208/C-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivani161208/C-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivani161208/C-Leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivani161208/C-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shivani161208/C-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivani161208/C-Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivani161208/C-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivani161208/C-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/shivani161208/C-Leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivani161208/C-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shivani161208/C-Leetcode/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/shivani161208/C-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivani161208/C-Leetcode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivani161208/C-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivani161208/C-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivani161208/C-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
